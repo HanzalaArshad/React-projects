@@ -1,0 +1,30 @@
+
+nav{
+  padding: 0 8px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 72px;
+  background-color: rgb(155, 207, 231);
+}
+
+img{
+    height: 70px;
+}
+
+ul{
+  display: flex;
+  justify-content: space-between;
+  text-decoration: none;
+  list-style: none;
+  gap: 24px;
+}
+
+span{
+  color:rgb(64, 95, 247) ;
+}
+
+.container{
+  max-width: 1280px;
+  margin: 0 auto;
+}

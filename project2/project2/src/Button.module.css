@@ -1,0 +1,28 @@
+.primaryBtn{
+  padding:18px 10px ;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  display:flex;
+  align-items:center;
+  gap:8px;
+  min-width: 220px;
+  font-size:16px;
+  cursor:pointer;
+}
+
+.ordinaryBtn{
+
+  padding:18px 10px ;
+  border: 1px solid black ;
+  color: black;
+  background-color: white;
+  border-radius: 5px;
+  display:flex;
+  align-items:center;
+  gap:8px;
+  min-width: 220px;
+  font-size:16px;
+  width: 100%;
+  cursor: pointer;
+}
